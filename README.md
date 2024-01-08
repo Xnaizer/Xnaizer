@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xnaizer.
 - 👀 I’m interested in Full Stack Develompment.
-- 🌱 I’m currently learning HTML and Python.
+- 🌱 I’m currently learning HTML,Python, and Golang.
 - 💞️ I’m looking to collaborate on some Projects.
 - 📫 How to reach me " unavaible for now "
 
