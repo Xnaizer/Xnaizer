@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xnaizer.
-- 👀 I’m interested in Full Stack Develompment.
+- 👀 I’m interested in Full Stack Developer, Blockchain Developer, and a Web 3 enthusiast.
 - 🌱 I’m currently learning ES6,React,Blockchain and Web 3.
 - 💞️ I’m looking to collaborate on some Projects.
 - 📫 How to reach me " unavaible for now "
