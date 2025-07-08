@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="a69ojggOQrLxw5PIlHlf">
-    <mxGraphModel dx="3215" dy="3785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3895" dy="3785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,8 +97,8 @@
         <mxCell id="KpohPWfmBzLDAnukmlFw-38" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Logout&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1064.99" y="695" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KpohPWfmBzLDAnukmlFw-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Fundraiser System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1004.99" y="105" width="60" height="30" as="geometry" />
+        <mxCell id="KpohPWfmBzLDAnukmlFw-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Crowdfunding Blockchain System&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1022.5" y="110" width="185.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KpohPWfmBzLDAnukmlFw-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KpohPWfmBzLDAnukmlFw-26">
           <mxGeometry relative="1" as="geometry">
@@ -339,10 +339,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KpohPWfmBzLDAnukmlFw-136" value="Daftar Program" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#d6b656;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-125" target="KpohPWfmBzLDAnukmlFw-128">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1757" y="65" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="169" y="1970" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KpohPWfmBzLDAnukmlFw-137" value="Smart Contract Calls" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#b85450;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-125" target="KpohPWfmBzLDAnukmlFw-129">
@@ -628,6 +629,352 @@
         </mxCell>
         <mxCell id="KpohPWfmBzLDAnukmlFw-243" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Admin Interface&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3110" y="970" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-252" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-244" target="KpohPWfmBzLDAnukmlFw-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-254" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.127;exitY=0.809;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-244" target="KpohPWfmBzLDAnukmlFw-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-256" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-244" target="KpohPWfmBzLDAnukmlFw-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-260" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.581;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.996;entryY=0.296;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-244" target="KpohPWfmBzLDAnukmlFw-249">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-244" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Sistem Crowdfunding&lt;br&gt;Blockchain&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2810" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-245" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;DFD Level 0 - Context Diagram Sistem Crowdfunding Blockchain&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="2520" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-253" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-246" target="KpohPWfmBzLDAnukmlFw-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-246" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Lisk Sepolia&lt;br&gt;Blockchain&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="2820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-257" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-247" target="KpohPWfmBzLDAnukmlFw-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-247" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PIC&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="2820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-248" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;User/Donatur&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="3020" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-258" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-249" target="KpohPWfmBzLDAnukmlFw-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-249" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Administrator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="2610" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-251" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3440" y="165" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-255" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.389;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-248" target="KpohPWfmBzLDAnukmlFw-244">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="67" y="3020" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-259" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.34;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-249" target="KpohPWfmBzLDAnukmlFw-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-262" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Permintaan Withdraw&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-263" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Data Program&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="2870" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-265" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Data Program&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2980" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-266" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Donasi IDRX&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2940" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-267" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Laporan Program&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2670" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-268" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Perintah Alokasi Dana&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-270" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Data Program Baru&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-274" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Events &amp;amp; State&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2870" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-275" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Smart Contract Calls&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="375" y="2820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-276" value="Administrator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="3550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-277" value="PIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2735" y="3750" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-278" value="User/Donatur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="4020" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-279" value="Lisk Sepolia&#xa;Blockchain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="3740" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-280" value="1.0&#xa;Autentikasi&#xa;Wallet" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3000" y="3690" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-281" value="2.0&#xa;Kelola&#xa;Program" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3420" y="3450" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-282" value="3.0&#xa;Kontribusi&#xa;Dana" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="3430" y="3990" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-283" value="4.0&#xa;Alokasi&#xa;Dana" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="3550" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-284" value="5.0&#xa;Penarikan&#xa;Dana" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="3740" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-285" value="6.0&#xa;Transparansi&#xa;&amp; Laporan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="4440" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-286" value="D1: Programs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3860" y="3560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-287" value="D2: Fund Pool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3920" y="3700" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-288" value="D3: Histories" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3940" y="3840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-289" value="D4: Events Log" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="3950" y="4060" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-290" value="wallet address" style="endArrow=classic;html=1;rounded=0;strokeColor=#9673a6;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-276" target="KpohPWfmBzLDAnukmlFw-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-291" value="auth success" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-280" target="KpohPWfmBzLDAnukmlFw-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-292" value="data program baru" style="endArrow=classic;html=1;rounded=0;strokeColor=#9673a6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-276" target="KpohPWfmBzLDAnukmlFw-281">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-293" value="perintah alokasi" style="endArrow=classic;html=1;rounded=0;strokeColor=#9673a6;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-276" target="KpohPWfmBzLDAnukmlFw-283">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-294" value="laporan program" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-285" target="KpohPWfmBzLDAnukmlFw-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-295" value="wallet address" style="endArrow=classic;html=1;rounded=0;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-277" target="KpohPWfmBzLDAnukmlFw-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-296" value="auth success" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-280" target="KpohPWfmBzLDAnukmlFw-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-297" value="permintaan withdraw + deskripsi" style="endArrow=classic;html=1;rounded=0;strokeColor=#82b366;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-277" target="KpohPWfmBzLDAnukmlFw-284">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-298" value="program assigned" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-285" target="KpohPWfmBzLDAnukmlFw-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-299" value="riwayat withdrawal" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-285" target="KpohPWfmBzLDAnukmlFw-277">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-300" value="wallet connect" style="endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-278" target="KpohPWfmBzLDAnukmlFw-280">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-301" value="connection status" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-280" target="KpohPWfmBzLDAnukmlFw-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-302" value="donasi IDRX" style="endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-278" target="KpohPWfmBzLDAnukmlFw-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-303" value="daftar program" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-285" target="KpohPWfmBzLDAnukmlFw-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-304" value="transparansi dana" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-285" target="KpohPWfmBzLDAnukmlFw-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-305" value="createProgram()" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-281" target="KpohPWfmBzLDAnukmlFw-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-306" value="sendFund()" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-282" target="KpohPWfmBzLDAnukmlFw-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-307" value="allocateFund()" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-283" target="KpohPWfmBzLDAnukmlFw-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-308" value="move fund" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-283" target="KpohPWfmBzLDAnukmlFw-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-309" value="withdrawFund() + history" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-284" target="KpohPWfmBzLDAnukmlFw-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-310" value="transfer IDRX" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-284" target="KpohPWfmBzLDAnukmlFw-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-311" value="program data" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-286" target="KpohPWfmBzLDAnukmlFw-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-312" value="fund balance" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-287" target="KpohPWfmBzLDAnukmlFw-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-313" value="history data" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-288" target="KpohPWfmBzLDAnukmlFw-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-314" value="events" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-289" target="KpohPWfmBzLDAnukmlFw-285">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-315" value="ProgramCreated" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-281" target="KpohPWfmBzLDAnukmlFw-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-316" value="FundSent" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-282" target="KpohPWfmBzLDAnukmlFw-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-317" value="FundAllocated" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-283" target="KpohPWfmBzLDAnukmlFw-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-318" value="FundWithdrawn" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-284" target="KpohPWfmBzLDAnukmlFw-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-319" value="smart contract state" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-286" target="KpohPWfmBzLDAnukmlFw-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-320" value="fund transactions" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-287" target="KpohPWfmBzLDAnukmlFw-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-321" value="event emission" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-289" target="KpohPWfmBzLDAnukmlFw-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-322" value="blockchain events" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-279" target="KpohPWfmBzLDAnukmlFw-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-323" value="DFD Level 1 - Detail Proses Sistem Crowdfunding Blockchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="3190" y="3260" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-324" value="Legend:&#xa;━━ Data Flow&#xa;┅┅ Event Emission&#xa;□ On-chain Storage" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="3050" y="3870" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-342" value="Administrator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="4720" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-343" value="PIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="4970" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-344" value="User/Donatur" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="5260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-345" value="Lisk Sepolia&#xa;Blockchain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="5040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-346" value="1.0&#xa;Kelola&#xa;Program" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="740" y="4660" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-347" value="2.0&#xa;Kontribusi&#xa;Dana" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="5250" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-348" value="3.0&#xa;Alokasi&#xa;Dana" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="870" y="4780" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-349" value="4.0&#xa;Penarikan&#xa;Dana" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="820" y="5120" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-350" value="5.0&#xa;Transparansi&#xa;&amp; Audit" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="735" y="4980" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-351" value="D1: Programs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="4680" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-352" value="D2: Fund Pool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="4850" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-353" value="D3: Histories" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="5150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-354" value="D4: Events" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="5050" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-355" value="data program" style="endArrow=classic;html=1;rounded=0;strokeColor=#9673a6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-342" target="KpohPWfmBzLDAnukmlFw-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-356" value="perintah alokasi" style="endArrow=classic;html=1;rounded=0;strokeColor=#9673a6;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-342" target="KpohPWfmBzLDAnukmlFw-348">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-357" value="laporan program" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-350" target="KpohPWfmBzLDAnukmlFw-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-358" value="permintaan withdraw + deskripsi" style="endArrow=classic;html=1;rounded=0;strokeColor=#82b366;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-343" target="KpohPWfmBzLDAnukmlFw-349">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-359" value="program assigned" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-350" target="KpohPWfmBzLDAnukmlFw-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-360" value="riwayat withdraw" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-350" target="KpohPWfmBzLDAnukmlFw-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-361" value="donasi IDRX" style="endArrow=classic;html=1;rounded=0;strokeColor=#d6b656;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-344" target="KpohPWfmBzLDAnukmlFw-347">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-362" value="daftar program" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-350" target="KpohPWfmBzLDAnukmlFw-344">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-363" value="transparansi dana" style="endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-350" target="KpohPWfmBzLDAnukmlFw-344">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-364" value="createProgram()" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-346" target="KpohPWfmBzLDAnukmlFw-351">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-365" value="sendFund()" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-347" target="KpohPWfmBzLDAnukmlFw-352">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-366" value="allocateFund()" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-348" target="KpohPWfmBzLDAnukmlFw-351">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-367" value="move fund" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-348" target="KpohPWfmBzLDAnukmlFw-352">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-368" value="withdrawFund() + history" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-349" target="KpohPWfmBzLDAnukmlFw-353">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-369" value="transfer IDRX" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-349" target="KpohPWfmBzLDAnukmlFw-352">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-370" value="program data" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-351" target="KpohPWfmBzLDAnukmlFw-350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-371" value="fund balance" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-352" target="KpohPWfmBzLDAnukmlFw-350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-372" value="history data" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-353" target="KpohPWfmBzLDAnukmlFw-350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-373" value="events log" style="endArrow=classic;html=1;rounded=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-354" target="KpohPWfmBzLDAnukmlFw-350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-374" value="trigger check" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-347" target="KpohPWfmBzLDAnukmlFw-348">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-375" value="enable withdraw" style="endArrow=classic;html=1;rounded=0;strokeColor=#999999;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-348" target="KpohPWfmBzLDAnukmlFw-349">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-376" value="contract state" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-351" target="KpohPWfmBzLDAnukmlFw-345">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-377" value="fund transactions" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-352" target="KpohPWfmBzLDAnukmlFw-345">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-378" value="emit events" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-354" target="KpohPWfmBzLDAnukmlFw-345">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-379" value="blockchain events" style="endArrow=classic;html=1;rounded=0;strokeColor=#b85450;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-345" target="KpohPWfmBzLDAnukmlFw-354">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-380" value="DFD Level 1 - Detail Proses Sistem Crowdfunding Blockchain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="860" y="4540" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KpohPWfmBzLDAnukmlFw-381" value="Legend:&#xa;━━ Data Flow&#xa;┅┅ Process Trigger&#xa;□ On-chain Storage" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="285" y="5170" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
