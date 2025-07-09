@@ -1187,7 +1187,7 @@
           <mxGeometry x="1570" y="10267.5" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="KpohPWfmBzLDAnukmlFw-523" value="Withdrawal&lt;br&gt;Histories" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="10530" width="100" height="30" as="geometry" />
+          <mxGeometry x="1560" y="10490" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KpohPWfmBzLDAnukmlFw-524" value="login&amp;nbsp;&lt;div&gt;credentials&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-513" target="KpohPWfmBzLDAnukmlFw-515">
           <mxGeometry x="0.4695" y="2" relative="1" as="geometry">
@@ -1249,7 +1249,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KpohPWfmBzLDAnukmlFw-539" value="transparency data" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-518" target="KpohPWfmBzLDAnukmlFw-513">
+        <mxCell id="KpohPWfmBzLDAnukmlFw-539" value="transparency data" style="endArrow=classic;html=1;rounded=0;exitX=0.258;exitY=0.937;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="KpohPWfmBzLDAnukmlFw-518" target="KpohPWfmBzLDAnukmlFw-513">
           <mxGeometry x="-0.1423" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
