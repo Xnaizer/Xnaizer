@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="a69ojggOQrLxw5PIlHlf">
-    <mxGraphModel dx="1751" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3208" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1903,6 +1903,66 @@
         </mxCell>
         <mxCell id="nUArAygHrfNPHTy427tb-46" value="ERD - Fundraisers Smart Contract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="6630" y="10240" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-48" value="ADMIN PK: wallet_address role: OWNER permissions: - create_program - allocate_fund - update_program - deactivate_program" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="5820" y="12980" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-49" value="PROGRAM PK: id name pic_name target description category status (ENUM): - INACTIVE - REGISTERED - ALLOCATED - FINISHED program_link photo_url allocated_amount" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="6170" y="12980" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-50" value="PIC PK: wallet_address name assigned_programs[] total_withdrawn" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="6570" y="12980" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-51" value="CONTRIBUTION PK: id FK: program_id FK: contributor_address amount timestamp" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="6170" y="13280" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-52" value="WITHDRAWAL_HISTORY PK: id FK: program_id FK: pic_address amount description timestamp" style="rounded=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="6570" y="13280" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-53" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.3;" edge="1" parent="1" source="nUArAygHrfNPHTy427tb-48" target="nUArAygHrfNPHTy427tb-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-54" value="creates" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6070" y="13010" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-55" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="nUArAygHrfNPHTy427tb-49" target="nUArAygHrfNPHTy427tb-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-56" value="assigned_to" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="13030" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-57" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="nUArAygHrfNPHTy427tb-49" target="nUArAygHrfNPHTy427tb-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-58" value="has" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6290" y="13200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-59" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;entryX=0;entryY=0;" edge="1" parent="1" source="nUArAygHrfNPHTy427tb-49" target="nUArAygHrfNPHTy427tb-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-60" value="has" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6440" y="13200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-61" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="nUArAygHrfNPHTy427tb-50" target="nUArAygHrfNPHTy427tb-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-62" value="creates" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6700" y="13200" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-63" value="1" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6120" y="13010" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-64" value="M" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6450" y="13030" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-65" value="1" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6290" y="13200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-66" value="M" style="text;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="6290" y="13260" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nUArAygHrfNPHTy427tb-67" value="ERD - Fundraisers Smart Contract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="6120" y="12880" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
