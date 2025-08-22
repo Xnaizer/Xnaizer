@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
     <tr>
       <td align="center" width="140" height="112">
         <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
-          <img src="./icons/html5.svg" width="48" height="48" alt="HTML5" />
+          <img src="./icons/html.svg" width="48" height="48" alt="HTML5" />
         </a>
         <div>HTML</div>
       </td>
       <td align="center" width="140" height="112">
         <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
-          <img src="./icons/css3.svg" width="48" height="48" alt="CSS3" />
+          <img src="./icons/css.svg" width="48" height="48" alt="CSS3" />
         </a>
         <div>CSS</div>
       </td>
