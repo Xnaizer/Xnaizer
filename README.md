@@ -4,16 +4,19 @@
   </a>
 </p>
 
-
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xnaizer&show_icons=true&theme=dracula&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&theme=dracula&hide_border=true" width="51%"/>
+  <a href="https://github.com/Xnaizer" target="_self">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xnaizer&show_icons=true&theme=dracula&hide_border=true" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&theme=dracula&hide_border=true" width="51%"/>
+  </a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=8&border_color=0d1117" width="40%"/>
+  <a href="https://github.com/Xnaizer" target="_self">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=8&border_color=0d1117" width="40%"/>
+  </a>
 </p>
 
 ---
