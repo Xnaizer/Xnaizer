@@ -13,7 +13,6 @@
 
 ---
 
-## 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/Xnaizer" target="_self">
     <img src="https://github-readme-stats.vercel.app/api?username=Xnaizer&show_icons=true&theme=dracula&hide_border=true" width="48%"/>
@@ -28,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack That I Used
 <div align="center">
   <table>
     <tbody>
