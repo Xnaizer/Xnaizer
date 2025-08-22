@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/Xnaizer" target="_self">
     <img src="https://github-readme-stats.vercel.app/api?username=Xnaizer&show_icons=true&title_color=70d6ff&icon_color=fcf300&text_color=ffffff&bg_color=00000000&hide_border=true" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&ring=70d6ff&fire=fcf300&currStreakLabel=70d6ff&sideNums=ffffff&sideLabels=70d6ff&dates=ffffff&background=00000000&hide_border=true" width="51%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&ring=70d6ff&fire=fcf300&currStreakLabel=70d6ff&currStreakNum=fcf300&sideNums=ffffff&sideLabels=70d6ff&dates=ffffff&background=00000000&hide_border=true" width="51%"/>
   </a>
 </p>
 <p align="left">
