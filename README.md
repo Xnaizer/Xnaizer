@@ -25,16 +25,16 @@ You can click the Preview link to take a look at your changes.
         <div>CSS</div>
       </td>
       <td align="center" width="140" height="112">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="./icons/tailwind.svg" width="65" height="48" alt="Tailwind CSS" />
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+          <img src="./icons/javascript.svg" width="48" height="48" alt="JavaScript" />
         </a>
-        <div>Tailwind</div>
+        <div>JavaScript</div>
       </td>
       <td align="center" width="140" height="112">
-        <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
-          <img src="./icons/solidity.svg" width="48" height="48" alt="Solidity" />
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="./icons/typescript.svg" width="48" height="48" alt="TypeScript" />
         </a>
-        <div>Solidity</div>
+        <div>TypeScript</div>
       </td>
     </tr>
     <tr>
@@ -57,18 +57,18 @@ You can click the Preview link to take a look at your changes.
         <div>Vite</div>
       </td>
       <td align="center" width="140" height="112">
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="./icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img src="./icons/tailwind.svg" width="65" height="48" alt="Tailwind CSS" />
         </a>
-        <div>JavaScript</div>
+        <div>Tailwind</div>
       </td>
     </tr>
     <tr>
       <td align="center" width="140" height="112">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="./icons/typescript.svg" width="48" height="48" alt="TypeScript" />
+        <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
+          <img src="./icons/solidity.svg" width="48" height="48" alt="Solidity" />
         </a>
-        <div>TypeScript</div>
+        <div>Solidity</div>
       </td>
       <td align="center" width="140" height="112">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
