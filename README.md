@@ -30,84 +30,114 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <a href="https://github.com/Xnaizer" target="_self">
-    <table>
-      <tbody>
-        <tr>
-          <td align="center" width="140" height="112">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/html.svg" width="48" height="48" alt="HTML5" />
-            <div>HTML</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>HTML</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/css.svg" width="48" height="48" alt="CSS3" />
-            <div>CSS</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>CSS</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/javascript.svg" width="48" height="48" alt="JavaScript" />
-            <div>JavaScript</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>JavaScript</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/typescript.svg" width="48" height="48" alt="TypeScript" />
-            <div>TypeScript</div>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>TypeScript</div>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/react.svg" width="48" height="48" alt="React" />
-            <div>React</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>React</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/nextjs.svg" width="48" height="48" alt="Next.js" />
-            <div>Next.js</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Next.js</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/vite.svg" width="48" height="48" alt="Vite" />
-            <div>Vite</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Vite</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/tailwind.svg" width="65" height="48" alt="Tailwind CSS" />
-            <div>Tailwind</div>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Tailwind</div>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/solidity.svg" width="48" height="48" alt="Solidity" />
-            <div>Solidity</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Solidity</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/git.svg" width="48" height="48" alt="Git" />
-            <div>Git</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Git</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/nodejs.svg" width="48" height="48" alt="Node.js" />
-            <div>Node.js</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Node.js</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/python.svg" width="48" height="48" alt="Python" />
-            <div>Python</div>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Python</div>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/go.svg" width="48" height="48" alt="Go" />
-            <div>Golang</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Golang</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/linux.svg" width="48" height="48" alt="Linux" />
-            <div>Linux</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Linux</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/postman.svg" width="48" height="48" alt="Postman" />
-            <div>Postman</div>
-          </td>
-          <td align="center" width="140" height="112">
+          </a>
+          <div>Postman</div>
+        </td>
+        <td align="center" width="140" height="112">
+          <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/mongodb.svg" width="48" height="48" alt="MongoDB" />
-            <div>MongoDB</div>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </a>
+          </a>
+          <div>MongoDB</div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
