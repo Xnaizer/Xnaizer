@@ -37,7 +37,6 @@ You can click the Preview link to take a look at your changes.
         <div>Solidity</div>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="140" height="112">
         <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -64,7 +63,6 @@ You can click the Preview link to take a look at your changes.
         <div>JavaScript</div>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="140" height="112">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -91,7 +89,6 @@ You can click the Preview link to take a look at your changes.
         <div>Python</div>
       </td>
     </tr>
-
     <tr>
       <td align="center" width="140" height="112">
         <a href="https://go.dev/" target="_blank" rel="noreferrer">
