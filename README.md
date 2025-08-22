@@ -25,7 +25,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack That I Used
 <div align="center">
