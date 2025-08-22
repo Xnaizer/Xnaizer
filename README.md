@@ -7,10 +7,10 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xnaizer&show_icons=true&theme=dracula&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&theme=dracula&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&theme=dracula&hide_border=true" width="50%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=8&border_color=0d1117" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=8&border_color=0d1117" width="50%"/>
 </p>
 
 ---
@@ -21,17 +21,6 @@
 - 🤝 I enjoy building **open-source projects** and collaborating with developers worldwide  
 - 🎯 My long-term goal: **to create impactful decentralized applications that shape the future**  
 
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/Xnaizer/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xnaizer&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/Xnaizer/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xnaizer&repo=project2&theme=radical" />
-  </a>
-</p>
 
 ---
 
@@ -116,12 +105,3 @@
 </div>
 
 ---
-
-## 🎉 Fun Extras
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xnaizer&theme=dracula&column=7" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Xnaizer/Xnaizer/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
