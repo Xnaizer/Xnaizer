@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70d6ff,100:fcf300&height=200&section=header&text=Hi%20Im%20Xnaizer%20👋&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn&gradientAngle=135" />
+  <a href="https://github.com/Xnaizer" target="_self">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70d6ff,100:fcf300&height=200&section=header&text=Hi%20Im%20Xnaizer%20👋&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn&gradientAngle=135" />
+  </a>
 </p>
 
 
