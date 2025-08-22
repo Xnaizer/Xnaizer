@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,30:007bff,60:00509d,80:fdc500,100:ffd500&height=200&section=header&text=Hi%20Im%20Xnaizer%20👋&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=scaleIn&gradientAngle=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,25:007bff,50:fdc500,75:ffd500,100:fdee87&height=200&section=header&text=Hi%20Im%20Xnaizer%20👋&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn&gradientAngle=135" />
 </p>
-
 
 
 ---
