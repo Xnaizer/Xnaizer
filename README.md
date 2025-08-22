@@ -1,41 +1,37 @@
-<div align="center">
-  <h1>👋 Hey, I'm <span style="color:#ff7f50;">Xnaizer</span>!</h1>
-  <p>
-    A passionate <b>Full Stack Developer</b>, <b>Blockchain Developer</b>, and <b>Web3 Enthusiast</b> <br/>
-    crafting the future of decentralized technologies.
-  </p>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Xnaizer&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&theme=dracula&hide_border=true" alt="GitHub Streak" width="400"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Xnaizer%20👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Blockchain%20%26%20Web3%20Enthusiast&descAlignY=55" />
+</p>
 
 ---
 
-### 📊 GitHub Analytics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=10&border_color=0d1117)
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xnaizer&show_icons=true&theme=dracula&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&theme=dracula&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=fb8c00&text_color=ffffff&langs_count=8&border_color=0d1117" width="60%"/>
+</p>
 
 ---
 
-### 🌱 Currently Learning
-- **ES6 & React** → Building dynamic, modern web applications.  
-- **Blockchain & Web3** → Diving deeper into decentralized technologies & smart contracts.  
+## 👨‍💻 About Me
+- 🔭 Currently working on **Full Stack & Web3 projects**  
+- 🌱 Exploring **Smart Contracts, Blockchain Scaling, and AI x Web3**  
+- 🤝 I enjoy building **open-source projects** and collaborating with developers worldwide  
+- 🎯 My long-term goal: **to create impactful decentralized applications that shape the future**  
 
 ---
 
-### 🤝 Open for Collaboration
-I’m open to working on projects in:  
-- **Full Stack Development**  
-- **Blockchain**  
-- **Web3**  
-
-Got an idea? Let’s build something amazing together! 🚀  
-
----
-
-### 📫 Reach Out
-Currently **not available for direct contact**, but feel free to:  
-- ⭐ Star my repositories  
-- 💬 Drop an issue or discussion on GitHub  
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/Xnaizer/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xnaizer&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/Xnaizer/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xnaizer&repo=project2&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -121,4 +117,11 @@ Currently **not available for direct contact**, but feel free to:
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to explore my projects 🚀
+## 🎉 Fun Extras
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Xnaizer&theme=dracula&column=7" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Xnaizer/Xnaizer/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
