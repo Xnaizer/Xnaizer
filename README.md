@@ -3,14 +3,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70d6ff,100:fcf300&height=200&section=header&text=Hi%20Im%20Xnaizer%20👋&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn&gradientAngle=135" />
   </a>
 </p>
-
----
+<br>
 
 ## 👨‍💻 About Me
-- 🔭 Currently on development on **Full Stack & Web3 projects**  
+- 🔭 Currently on development for **Full Stack & Web3 projects**  
 - 🌱 Exploring **Smart Contracts, Blockchain Scaling, and AI x Web3**  
 - 🤝 I enjoy building **open-source projects** and collaborating with developers worldwide  
-- 🎯 My long-term goal: **to create impactful decentralized applications that shape the future**  
+- 🎯 My long-term goal: **to create impactful centralized & decentralized applications that shape the future**  
 
 ---
 
@@ -31,82 +30,84 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td align="center" width="140" height="112">
-          <img src="./icons/html.svg" width="48" height="48" alt="HTML5" style="pointer-events: none; user-select: none;" />
-          <div>HTML</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/css.svg" width="48" height="48" alt="CSS3" style="pointer-events: none; user-select: none;" />
-          <div>CSS</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/javascript.svg" width="48" height="48" alt="JavaScript" style="pointer-events: none; user-select: none;" />
-          <div>JavaScript</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/typescript.svg" width="48" height="48" alt="TypeScript" style="pointer-events: none; user-select: none;" />
-          <div>TypeScript</div>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="140" height="112">
-          <img src="./icons/react.svg" width="48" height="48" alt="React" style="pointer-events: none; user-select: none;" />
-          <div>React</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/nextjs.svg" width="48" height="48" alt="Next.js" style="pointer-events: none; user-select: none;" />
-          <div>Next.js</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/vite.svg" width="48" height="48" alt="Vite" style="pointer-events: none; user-select: none;" />
-          <div>Vite</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/tailwind.svg" width="65" height="48" alt="Tailwind CSS" style="pointer-events: none; user-select: none;" />
-          <div>Tailwind</div>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="140" height="112">
-          <img src="./icons/solidity.svg" width="48" height="48" alt="Solidity" style="pointer-events: none; user-select: none;" />
-          <div>Solidity</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/git.svg" width="48" height="48" alt="Git" style="pointer-events: none; user-select: none;" />
-          <div>Git</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/nodejs.svg" width="48" height="48" alt="Node.js" style="pointer-events: none; user-select: none;" />
-          <div>Node.js</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/python.svg" width="48" height="48" alt="Python" style="pointer-events: none; user-select: none;" />
-          <div>Python</div>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="140" height="112">
-          <img src="./icons/go.svg" width="48" height="48" alt="Go" style="pointer-events: none; user-select: none;" />
-          <div>Golang</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/linux.svg" width="48" height="48" alt="Linux" style="pointer-events: none; user-select: none;" />
-          <div>Linux</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/postman.svg" width="48" height="48" alt="Postman" style="pointer-events: none; user-select: none;" />
-          <div>Postman</div>
-        </td>
-        <td align="center" width="140" height="112">
-          <img src="./icons/mongodb.svg" width="48" height="48" alt="MongoDB" style="pointer-events: none; user-select: none;" />
-          <div>MongoDB</div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <a href="https://github.com/Xnaizer" target="_self">
+    <table>
+      <tbody>
+        <tr>
+          <td align="center" width="140" height="112">
+            <img src="./icons/html.svg" width="48" height="48" alt="HTML5" />
+            <div>HTML</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/css.svg" width="48" height="48" alt="CSS3" />
+            <div>CSS</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/javascript.svg" width="48" height="48" alt="JavaScript" />
+            <div>JavaScript</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/typescript.svg" width="48" height="48" alt="TypeScript" />
+            <div>TypeScript</div>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="140" height="112">
+            <img src="./icons/react.svg" width="48" height="48" alt="React" />
+            <div>React</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/nextjs.svg" width="48" height="48" alt="Next.js" />
+            <div>Next.js</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/vite.svg" width="48" height="48" alt="Vite" />
+            <div>Vite</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/tailwind.svg" width="65" height="48" alt="Tailwind CSS" />
+            <div>Tailwind</div>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="140" height="112">
+            <img src="./icons/solidity.svg" width="48" height="48" alt="Solidity" />
+            <div>Solidity</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/git.svg" width="48" height="48" alt="Git" />
+            <div>Git</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/nodejs.svg" width="48" height="48" alt="Node.js" />
+            <div>Node.js</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/python.svg" width="48" height="48" alt="Python" />
+            <div>Python</div>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="140" height="112">
+            <img src="./icons/go.svg" width="48" height="48" alt="Go" />
+            <div>Golang</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/linux.svg" width="48" height="48" alt="Linux" />
+            <div>Linux</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/postman.svg" width="48" height="48" alt="Postman" />
+            <div>Postman</div>
+          </td>
+          <td align="center" width="140" height="112">
+            <img src="./icons/mongodb.svg" width="48" height="48" alt="MongoDB" />
+            <div>MongoDB</div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </a>
 </div>
 
 ---
