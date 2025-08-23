@@ -11,7 +11,7 @@
 - 🤝 I enjoy building **open-source projects** and collaborating with developers worldwide  
 - 🎯 My long-term goal: **to create impactful centralized & decentralized applications that shape the future**  
 
----
+
 
 <p align="center">
   <a href="https://github.com/Xnaizer" target="_self">
