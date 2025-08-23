@@ -21,7 +21,7 @@
 </p>
 <p align="left">
   <a href="https://github.com/Xnaizer" target="_self">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=70d6ff&text_color=ffffff&langs_count=8&border_color=0d1117" width="35%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=70d6ff&text_color=ffffff&langs_count=8&border_color=0d1117" width="100%"/>
   </a>
 </p>
 
