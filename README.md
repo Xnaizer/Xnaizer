@@ -19,15 +19,20 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnaizer&ring=70d6ff&fire=fcf300&currStreakLabel=70d6ff&currStreakNum=fcf300&sideNums=ffffff&sideLabels=70d6ff&dates=ffffff&background=00000000&hide_border=true" width="45%"/>
   </a>
 </p>
+
 <p align="left">
   <a href="https://github.com/Xnaizer" target="_self">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=70d6ff&text_color=ffffff&langs_count=8&border_color=0d1117" 
       style="width:100%; max-width:800px; height:160px; object-fit:cover;" 
     />
-    <img src="https://github-profile-trophy.vercel.app/?username=Xnaizer&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Xnaizer&theme=tokyonight&no-frame=true&row=1&column=6" 
+      style="width:100%; max-width:800px; height:auto;" 
+    />
   </a>
 </p>
+
 
 
 
