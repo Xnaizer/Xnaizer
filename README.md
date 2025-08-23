@@ -34,7 +34,7 @@
     />
     <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=Xnaizer&theme=tokyo-night&bg_color=0d1117&title_color=70d6ff&color=70d6ff&line=fcf300&point=ffffff&area=true" 
-      width="55%"
+      width="60%"
       alt="GitHub Activity Graph"
     />
   </a>
