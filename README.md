@@ -25,6 +25,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnaizer&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=70d6ff&text_color=ffffff&langs_count=8&border_color=0d1117" 
       style="width:100%; max-width:800px; height:160px; object-fit:cover;" 
     />
+    <img src="https://github-profile-trophy.vercel.app/?username=Xnaizer&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
   </a>
 </p>
 
