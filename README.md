@@ -55,8 +55,6 @@
           </a>
           <div>TypeScript</div>
         </td>
-      </tr>
-      <tr>
         <td align="center" width="140" height="112">
           <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/react.svg" width="48" height="48" alt="React" />
@@ -69,6 +67,8 @@
           </a>
           <div>Next.js</div>
         </td>
+      </tr>
+      <tr>
         <td align="center" width="140" height="112">
           <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/vite.svg" width="48" height="48" alt="Vite" />
@@ -81,8 +81,6 @@
           </a>
           <div>Tailwind</div>
         </td>
-      </tr>
-      <tr>
         <td align="center" width="140" height="112">
           <a href="https://github.com/Xnaizer" target="_self">
             <img src="./icons/solidity.svg" width="48" height="48" alt="Solidity" />
