@@ -26,7 +26,6 @@
 </p>
 
 
-## 🛠️ Tech Stack That I Used
 <div align="center">
   <table>
     <tbody>
